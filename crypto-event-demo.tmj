@@ -1445,7 +1445,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"crypto event demo.png"
+         "value":"crypto-event-demo.png"
         }, 
         {
          "name":"mapName",
